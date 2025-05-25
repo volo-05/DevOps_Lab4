@@ -4,6 +4,7 @@ Hello, Local World!
 
 ## New Feature 1
 Super feature
+## Feature 2
 
 ## Feat
 Masha Feat
